@@ -2,4 +2,4 @@
 HTML Project: Odin Recipes
 
 Skills Acquired:
-HTML
+HTML, GIT
